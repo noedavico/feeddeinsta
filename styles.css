@@ -1,1 +1,5 @@
-h1 {color: blue;}
+.container {whidth: 500px;
+margin: 0 auto,}
+
+header {background-color: white;}
+h1{font-size: 40px;}
